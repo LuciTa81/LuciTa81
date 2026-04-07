@@ -1,47 +1,25 @@
 # Hi, I'm MinJoon 👋
 
-**AI · AR · Computer Vision · Interactive Systems**
-
-I’m interested in building practical systems at the intersection of **AI**, **AR**, and real-world interaction.  
-I enjoy turning ideas into working projects using **Python**, **C**, **C++**, and tools like **Unity** and **Jupyter Notebook**.
-
----
-
 ## About Me
 
-- Interested in **Artificial Intelligence**, **Augmented Reality**, and **Computer Vision**
-- Comfortable with **C**, **C++**, and **Python** for implementation, prototyping, and problem solving
-- Curious about how intelligent systems can be applied to **interactive** and **immersive** environments
-- Focused on building cleaner, more complete, and portfolio-ready projects
-
----
-
-## Tech Stack
-
-**Languages**  
-`Python` `C` `C++` `TypeScript`
-
-**Fields**  
-`AI` `AR` `Machine Learning` `Computer Vision` `Interactive Systems`
-
-**Tools**  
-`Unity` `Jupyter Notebook` `Git` `GitHub` `n8n`
+I am AI engineer and researcher advancing the intersection of NLP and vision-language models. 
+I am passionate on the challenges of full-cycle AI development, transforming neural network training into deployable, real-world solutions. I aim to power the next generation of Augmented Reality applications, enabling highly interactive and immersive user experiences.
 
 ---
 
 ## Featured Projects
 
-### [UnityAI](https://github.com/LuciTa81/UnityAI)
-AI-related experiments and interactive ideas built around Unity-based environments.
-
 ### [Dog_Classification](https://github.com/LuciTa81/Dog_Classification)
 Image classification project focused on dog breed recognition, dataset handling, and model improvement.
 
-### [ML_Project](https://github.com/LuciTa81/ML_Project)
-Machine learning experiments centered on training workflows, evaluation, and practical implementation.
-
 ### [AR-assembly-psr](https://github.com/LuciTa81/AR-assembly-psr)
 An AR-oriented project exploring interactive spatial experiences and applied augmented reality ideas.
+
+### [UnityAI](https://github.com/LuciTa81/UnityAI)
+AI-related experiments and interactive ideas built around Unity-based environments.
+
+### [BlockChain](https://github.com/LuciTa81/BlockChain)
+Blockchain network simulator that simulates a decentralized P2P node networking, UTXO model and consensus through dynamic Proof of Work (PoW) mining.
 
 ---
 
