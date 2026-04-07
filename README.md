@@ -1,4 +1,4 @@
-# Hi, I'm MinJoon 👋
+# Hi, Welcome to My GitHub Profile
 
 ## About Me
 
