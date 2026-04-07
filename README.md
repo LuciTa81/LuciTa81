@@ -3,7 +3,9 @@
 ## About Me
 
 I am AI engineer and researcher advancing the intersection of NLP and vision-language models. 
-I am passionate on the challenges of full-cycle AI development, transforming neural network training into deployable, real-world solutions. I aim to power the next generation of Augmented Reality applications, enabling highly interactive and immersive user experiences.
+
+I am passionate on the challenges of full-cycle AI development, transforming neural network training into deployable, real-world solutions.
+I aim to power the next generation of Augmented Reality applications, enabling highly interactive and immersive user experiences.
 
 ---
 
