@@ -3,6 +3,7 @@
 ## About Me
 
 I am AI engineer and researcher advancing the intersection of NLP and vision-language models. 
+
 I am passionate on the challenges of full-cycle AI development, transforming neural network training into deployable, real-world solutions.
 
 ---
